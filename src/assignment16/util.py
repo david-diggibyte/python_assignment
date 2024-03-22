@@ -18,3 +18,4 @@ def stack_cubes(t, test_cases):
             results.append('No')
 
     return "\n".join(results)
+
