@@ -5,3 +5,4 @@ def array_operations(arr):
     ceil = np.ceil(arr)
     rint = np.rint(arr)
     return f"{floor}\n{ceil}\n{rint}"
+
