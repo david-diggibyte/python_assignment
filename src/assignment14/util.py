@@ -6,3 +6,4 @@ def calculating_happiness(array, set_a, set_b):
         elif i in set_b:
             happiness -= 1
     return happiness
+
