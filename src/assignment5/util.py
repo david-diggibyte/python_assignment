@@ -11,3 +11,4 @@ def string_formatted(number):
         formatted_output += f"{deci.rjust(width)} {octa.rjust(width)} {hexa.rjust(width)} {bina.rjust(width)}\n"
 
     return formatted_output.rstrip("\n")
+
