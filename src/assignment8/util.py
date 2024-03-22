@@ -5,3 +5,4 @@ def find_avg(n, columns, data):
         total_marks += int(row[marks_index])
     average_marks = total_marks / n
     return float("{:.2f}".format(average_marks))
+

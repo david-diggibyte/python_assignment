@@ -8,3 +8,4 @@ data = [
             ['siva', 4, 9, 88]
         ]
 print(find_avg(n, columns, data))
+
